@@ -1,0 +1,12 @@
+Bilješke 9.5.2023. GIT training
+Terminology:
+commit, push-pull, branches, completely seperated working local space for files
+Notes:
+commits are fully managed offline if needed
+hash checksum- executed for safety of file integrity
+ref (refs) - files stored with has checksum / file structure
+Working directory - Staging area - .git repository
+Within Windows Powershell - git status to check modified files, git push
+All changes made locally are considered temporary
+
+
