@@ -8,5 +8,6 @@ ref (refs) - files stored with has checksum / file structure
 Working directory - Staging area - .git repository
 Within Windows Powershell - git status to check modified files, git push
 All changes made locally are considered temporary
-
+Control +c ----- :qa ENTER
+GitHub account
 
